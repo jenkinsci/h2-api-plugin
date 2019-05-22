@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>h2-api</artifactId>
-    <version>1.4.199-SNAPSHOT</version>
+    <version>1.4.199</version>
     <packaging>hpi</packaging>
 
     <name>H2 API Plugin</name>
@@ -31,7 +31,8 @@
     <scm>
         <connection>scm:git:git@github.com:jenkinsci/h2-api-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:jenkinsci/h2-api-plugin.git</developerConnection>
-    </scm>
+      <tag>h2-api-1.4.199</tag>
+  </scm>
 
     <developers>
         <developer>
