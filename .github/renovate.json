@@ -5,7 +5,7 @@
     ":semanticCommitsDisabled",
     "schedule:earlyMondays"
   ],
-  "automerge": true,
+  "automerge": false,
   "labels": [
     "dependencies"
   ],

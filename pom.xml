@@ -25,7 +25,8 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>2.1.214</version>
+            <!-- Needs thought in updating https://github.com/jenkinsci/h2-api-plugin/pull/4#pullrequestreview-899178820 -->
+            <version>1.4.199</version>
         </dependency>
     </dependencies>
 
