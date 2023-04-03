@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.jenkins.plugins</groupId>
     <artifactId>h2-api</artifactId>
-    <version>${changelist}</version>
+    <version>11.${changelist}</version>
     <packaging>hpi</packaging>
 
     <name>H2 API Plugin</name>
