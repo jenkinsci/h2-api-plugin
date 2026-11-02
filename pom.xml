@@ -17,7 +17,7 @@
     <url>https://github.com/${gitHubRepo}</url>
 
     <properties>
-        <revision>1.4.199</revision>
+        <revision>2.2.220</revision>
         <changelist>999999-SNAPSHOT</changelist>
         <gitHubRepo>jenkinsci/h2-api-plugin</gitHubRepo>
         <!-- https://www.jenkins.io/doc/developer/plugin-development/choosing-jenkins-baseline/ -->
